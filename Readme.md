@@ -47,6 +47,10 @@ Backend: A custom Node.js image is built. It connects to the database using the 
 
 Frontend: A React development server runs inside a container and communicates with the Backend API at localhost:5000.
 
+
+
+
+
 🧹 Cleaning Up
 To stop the application and remove the containers, press Ctrl + C in your terminal or run:
 
@@ -57,7 +61,7 @@ To remove the database volume as well (this will delete your data):
 
 Bash
 
-docker-compose down -v
+docker compose down -v
 
 
 
