@@ -28,7 +28,7 @@ In your terminal, run:
 
 Bash
 
-docker-compose up --build
+docker compose up --build
 Note: The --build flag ensures that Docker builds fresh images using the provided Dockerfiles.
 
 
