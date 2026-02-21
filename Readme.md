@@ -1,4 +1,4 @@
-This guide will walk you through creating a simple Task Manager (MERN stack: MongoDB, Express, React, Node.js) and containerizing it using Docker.
+🚀 This guide will walk you through creating a simple Task Manager (MERN stack: MongoDB, Express, React, Node.js) and containerizing it using Docker.🚀 
 
 
 🚀 MERN Stack Task Manager (Dockerized)
