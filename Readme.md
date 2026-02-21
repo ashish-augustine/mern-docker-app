@@ -1,12 +1,15 @@
-# This guide will walk you through creating a simple Task Manager (MERN stack: MongoDB, Express, React, Node.js) and containerizing it using Docker. #
 
 
  # 🚀 MERN Stack Task Manager (Dockerized) #
+ 
+## This guide will walk you through creating a simple Task Manager (MERN stack: MongoDB, Express, React, Node.js) and containerizing it using Docker. ##
+
+
 ## A simple, containerized Task Manager application built with the MERN stack (MongoDB, Express, React, Node.js). This project is designed to run seamlessly on any machine using Docker, eliminating the "it works on my machine" problem. ##
 
 
 
-🛠️ Prerequisites
+## 🛠️ Prerequisites ## 
 Before you begin, ensure you have the following installed on your laptop:
 
 Git
@@ -14,7 +17,7 @@ Git
 Docker Desktop (Includes Docker Compose)
 
 
-🚀 Getting Started
+## 🚀 Getting Started ## 
 Follow these steps to get the project running locally:
 1. Clone the Repository
 Bash
@@ -54,7 +57,7 @@ Frontend: A React development server runs inside a container and communicates wi
 
 
 
-🧹 Cleaning Up
+## 🧹 Cleaning Up ## 
 To stop the application and remove the containers, press Ctrl + C in your terminal or run:
 
 Bash
